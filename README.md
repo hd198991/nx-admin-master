@@ -21,97 +21,97 @@
     <img src="https://img.shields.io/badge/release-1.2-blue.svg" alt="GitHub release">
   </a>
   
-  > ## :gem: Vueè‡ªåŠ¨åŒ–ç®¡ç†ç³»ç»Ÿ
+  > ## :gem: Vue×Ô¶¯»¯¹ÜÀíÏµÍ³
 </p>
 
-ç®€ä½“ä¸­æ–‡ | [English](./README.en.md)
+¼òÌåÖĞÎÄ | [English](./README.en.md)
 
 
-## ä»‹ç»
-[nx-admin](https://mgbq.github.io/vue-permission/#/login) æ˜¯ä¸€ä¸ªå¼€æºçš„ç®¡ç†ç³»ç»Ÿå‰ç«¯é›†æˆæ–¹æ¡ˆï¼Œå®ƒåŸºäº [vue](https://github.com/vuejs/vue) å’Œ [element](https://github.com/ElemeFE/element)ã€‚å®ƒä½¿ç”¨äº†æœ€æ–°çš„å‰ç«¯æŠ€æœ¯æ ˆï¼Œå†…ç½®äº†i18å›½é™…åŒ–è§£å†³æ–¹æ¡ˆï¼ŒåŠ¨æ€è·¯ç”±ï¼Œæƒé™éªŒè¯ï¼Œæç‚¼äº†å…¸å‹çš„ä¸šåŠ¡æ¨¡å‹ï¼Œæä¾›äº†ä¸°å¯Œçš„åŠŸèƒ½ç»„ä»¶ï¼Œå®ƒå¯ä»¥å¸®åŠ©ä½ å¿«é€Ÿæ­å»ºä¼ä¸šçº§ä¸­åå°äº§å“åŸå‹ã€‚æœ€å¤§ç¨‹åº¦ä¸Šå¸®åŠ©ä¸ªäººï¼Œä¼ä¸šèŠ‚çœæ—¶é—´æˆæœ¬å’Œè´¹ç”¨å¼€æ”¯ã€‚
+## ½éÉÜ
+[nx-admin](https://mgbq.github.io/vue-permission/#/login) ÊÇÒ»¸ö¿ªÔ´µÄ¹ÜÀíÏµÍ³Ç°¶Ë¼¯³É·½°¸£¬Ëü»ùÓÚ [vue](https://github.com/vuejs/vue) ºÍ [element](https://github.com/ElemeFE/element)¡£ËüÊ¹ÓÃÁË×îĞÂµÄÇ°¶Ë¼¼ÊõÕ»£¬ÄÚÖÃÁËi18¹ú¼Ê»¯½â¾ö·½°¸£¬¶¯Ì¬Â·ÓÉ£¬È¨ÏŞÑéÖ¤£¬ÌáÁ¶ÁËµäĞÍµÄÒµÎñÄ£ĞÍ£¬Ìá¹©ÁË·á¸»µÄ¹¦ÄÜ×é¼ş£¬Ëü¿ÉÒÔ°ïÖúÄã¿ìËÙ´î½¨ÆóÒµ¼¶ÖĞºóÌ¨²úÆ·Ô­ĞÍ¡£×î´ó³Ì¶ÈÉÏ°ïÖú¸öÈË£¬ÆóÒµ½ÚÊ¡Ê±¼ä³É±¾ºÍ·ÑÓÃ¿ªÖ§¡£
 
-[ä¸­æ–‡æ–‡æ¡£](https://mgbq.github.io/nx-admin-site/zh/)
+[ÖĞÎÄÎÄµµ](https://mgbq.github.io/nx-admin-site/zh/)
 
-**å®Œæ•´ç‰ˆ**
+**ÍêÕû°æ**
 
-[Github ä»“åº“](https://github.com/mgbq/nx-admin) | 
-[ç äº‘ä»“åº“](https://gitee.com/symgg/nx-admin) | 
-[é¢„è§ˆåœ°å€](https://mgbq.github.io/vue-permission/#/login)
+[Github ²Ö¿â](https://github.com/mgbq/nx-admin) | 
+[ÂëÔÆ²Ö¿â](https://gitee.com/symgg/nx-admin) | 
+[Ô¤ÀÀµØÖ·](https://mgbq.github.io/vue-permission/#/login)
 
 <img src="./github/nx-admin.png" width="800px" height="400" alt="nx-admin">
 
-**ç®€åŒ–ç‰ˆ**
+**¼ò»¯°æ**
 
-[Github ä»“åº“](https://github.com/mgbq/nxAdmin-template) | 
-[ç äº‘ä»“åº“](https://gitee.com/symgg/nxAdmin-template) | 
-[é¢„è§ˆåœ°å€](https://mgbq.github.io/nxAdmin-template)
+[Github ²Ö¿â](https://github.com/mgbq/nxAdmin-template) | 
+[ÂëÔÆ²Ö¿â](https://gitee.com/symgg/nxAdmin-template) | 
+[Ô¤ÀÀµØÖ·](https://mgbq.github.io/nxAdmin-template)
 
-## å‰åºå‡†å¤‡
+## Ç°Ğò×¼±¸
 
-ä½ éœ€è¦åœ¨æœ¬åœ°å®‰è£… [node](http://nodejs.org/) å’Œ [git](https://git-scm.com/)ã€‚æœ¬é¡¹ç›®æŠ€æœ¯æ ˆåŸºäº [ES2015+](http://es6.ruanyifeng.com/)ã€[vue](https://cn.vuejs.org/index.html)ã€[vuex](https://vuex.vuejs.org/zh-cn/)ã€[vue-router](https://router.vuejs.org/zh-cn/) ã€[axios](https://github.com/axios/axios) å’Œ [element-ui](https://github.com/ElemeFE/element)ï¼Œæ‰€æœ‰çš„è¯·æ±‚æ•°æ®éƒ½ä½¿ç”¨[Mock.js](https://github.com/nuysoft/Mock)æ¨¡æ‹Ÿï¼Œæå‰äº†è§£å’Œå­¦ä¹ è¿™äº›çŸ¥è¯†ä¼šå¯¹ä½¿ç”¨æœ¬é¡¹ç›®æœ‰å¾ˆå¤§çš„å¸®åŠ©ã€‚
+ÄãĞèÒªÔÚ±¾µØ°²×° [node](http://nodejs.org/) ºÍ [git](https://git-scm.com/)¡£±¾ÏîÄ¿¼¼ÊõÕ»»ùÓÚ [ES2015+](http://es6.ruanyifeng.com/)¡¢[vue](https://cn.vuejs.org/index.html)¡¢[vuex](https://vuex.vuejs.org/zh-cn/)¡¢[vue-router](https://router.vuejs.org/zh-cn/) ¡¢[axios](https://github.com/axios/axios) ºÍ [element-ui](https://github.com/ElemeFE/element)£¬ËùÓĞµÄÇëÇóÊı¾İ¶¼Ê¹ÓÃ[Mock.js](https://github.com/nuysoft/Mock)Ä£Äâ£¬ÌáÇ°ÁË½âºÍÑ§Ï°ÕâĞ©ÖªÊ¶»á¶ÔÊ¹ÓÃ±¾ÏîÄ¿ÓĞºÜ´óµÄ°ïÖú¡£
 
-## ç›¸å…³æ–‡æ¡£
-[è€æ¿è®©æˆ‘ååˆ†é’Ÿä¸Šæ‰‹nx-admin](https://juejin.im/post/5b43226c51882519ad616c2a)
+## Ïà¹ØÎÄµµ
+[ÀÏ°åÈÃÎÒÊ®·ÖÖÓÉÏÊÖnx-admin](https://juejin.im/post/5b43226c51882519ad616c2a)
 
-[Vue2.0å®ç°çš„ç”¨æˆ·æƒé™æ§åˆ¶](http://blog.csdn.net/qq_32340877/article/details/79416344)
+[Vue2.0ÊµÏÖµÄÓÃ»§È¨ÏŞ¿ØÖÆ](http://blog.csdn.net/qq_32340877/article/details/79416344)
 
-[Mock.jsæ¨¡æ‹Ÿç™»å½•å’Œè¡¨æ ¼çš„å¢åˆ æ”¹æŸ¥](https://juejin.im/post/5b59804c5188251acb0d00bf)
+[Mock.jsÄ£ÄâµÇÂ¼ºÍ±í¸ñµÄÔöÉ¾¸Ä²é](https://juejin.im/post/5b59804c5188251acb0d00bf)
 
-[Vue2.0-åŸºäºelementuiæ¢è‚¤[è‡ªå®šä¹‰ä¸»é¢˜]](https://blog.csdn.net/qq_32340877/article/details/80176987)
+[Vue2.0-»ùÓÚelementui»»·ô[×Ô¶¨ÒåÖ÷Ìâ]](https://blog.csdn.net/qq_32340877/article/details/80176987)
 
-[Vueå›½é™…åŒ–å¤„ç† vue-i18n ä»¥åŠé¡¹ç›®è‡ªåŠ¨åˆ‡æ¢ä¸­è‹±æ–‡](https://blog.csdn.net/qq_32340877/article/details/80148913)
+[Vue¹ú¼Ê»¯´¦Àí vue-i18n ÒÔ¼°ÏîÄ¿×Ô¶¯ÇĞ»»ÖĞÓ¢ÎÄ](https://blog.csdn.net/qq_32340877/article/details/80148913)
 
-[æ­å»º Vue2 å•å…ƒæµ‹è¯•ç¯å¢ƒ(karma+mocha+webpack3)](https://juejin.im/post/5b051519f265da0b8f62e94e)
+[´î½¨ Vue2 µ¥Ôª²âÊÔ»·¾³(karma+mocha+webpack3)](https://juejin.im/post/5b051519f265da0b8f62e94e)
 
-[Vueå®ç°é¦–å±åŠ è½½ç­‰å¾…åŠ¨ç”»](https://juejin.im/post/5b336699e51d4558a846dcc2)
+[VueÊµÏÖÊ×ÆÁ¼ÓÔØµÈ´ı¶¯»­](https://juejin.im/post/5b336699e51d4558a846dcc2)
 
-[Vueé¡¹ç›®ä¸­æ·»åŠ é”å±åŠŸèƒ½](https://juejin.im/post/5b35e05ee51d4558a75ea159)
+[VueÏîÄ¿ÖĞÌí¼ÓËøÆÁ¹¦ÄÜ](https://juejin.im/post/5b35e05ee51d4558a75ea159)
 
-[Vueé¡¹ç›®æ·»åŠ åŠ¨æ€æµè§ˆå™¨å¤´éƒ¨title](https://juejin.im/post/5b446e24e51d45194d4fce14)
+[VueÏîÄ¿Ìí¼Ó¶¯Ì¬ä¯ÀÀÆ÷Í·²¿title](https://juejin.im/post/5b446e24e51d45194d4fce14)
 
-**æœ¬é¡¹ç›®ä¸æ”¯æŒä½ç‰ˆæœ¬æµè§ˆå™¨(å¦‚ ie)ï¼Œæœ‰éœ€æ±‚è¯·è‡ªè¡Œæ·»åŠ  polyfill [è¯¦æƒ…](https://github.com/mgbq/nx-admin/wiki#babel-polyfill)**
+**±¾ÏîÄ¿²»Ö§³ÖµÍ°æ±¾ä¯ÀÀÆ÷(Èç ie)£¬ÓĞĞèÇóÇë×ÔĞĞÌí¼Ó polyfill [ÏêÇé](https://github.com/mgbq/nx-admin/wiki#babel-polyfill)**
 
-**æ³¨æ„ï¼šè¯¥é¡¹ç›®ä½¿ç”¨ element-ui@2.3.0+ ç‰ˆæœ¬ï¼Œæ‰€ä»¥æœ€ä½å…¼å®¹ vue@2.5.0+**
-
-
-## ä¸‹è½½
-
-gitï¼š`git clone https://github.com/mgbq/nx-admin.git`
-
-npmï¼š`npm install`
+**×¢Òâ£º¸ÃÏîÄ¿Ê¹ÓÃ element-ui@2.3.0+ °æ±¾£¬ËùÒÔ×îµÍ¼æÈİ vue@2.5.0+**
 
 
-## æ¼”ç¤º
+## ÏÂÔØ
 
-æµ‹è¯•è´¦å·:
+git£º`git clone https://github.com/mgbq/nx-admin.git`
+
+npm£º`npm install`
+
+
+## ÑİÊ¾
+
+²âÊÔÕËºÅ:
 
 ``` bash
 1. username: admin
- Â  password: ä»»æ„
+ ? password: ÈÎÒâ
 2. username: editor
- Â  password: ä»»æ„
+ ? password: ÈÎÒâ
 ```
 
-æ¼”ç¤ºåœ°å€:
+ÑİÊ¾µØÖ·:
 
-[vueå®ç°çš„åå°ç®¡ç†ç³»ç»Ÿ](https://mgbq.github.io/vue-permission/#/login)
+[vueÊµÏÖµÄºóÌ¨¹ÜÀíÏµÍ³](https://mgbq.github.io/vue-permission/#/login)
 
 > nx-admin project
 
-nx-admin æ˜¯å®Œå…¨å¼€æºå…è´¹çš„ç®¡ç†ç³»ç»Ÿé›†æˆæ–¹æ¡ˆï¼Œç”± nxmin åœ¨å·¥ä½œä¹‹ä½™ç”±å…´è¶£é©±åŠ¨å®Œæˆï¼Œå¦‚æœä½ ä¹Ÿä¸€æ ·å–œæ¬¢å‰ç«¯å¼€å‘ï¼Œæ¬¢è¿åŠ å…¥æˆ‘ä»¬çš„è®¨è®º/å­¦ä¹ ç¾¤ï¼Œç¾¤å†…å¯ä»¥æé—®ç­”ç–‘ï¼Œåˆ†äº«å­¦ä¹ èµ„æ–™æˆ–è€…éšä¾¿æ‰¯æ·¡
+nx-admin ÊÇÍêÈ«¿ªÔ´Ãâ·ÑµÄ¹ÜÀíÏµÍ³¼¯³É·½°¸£¬ÓÉ nxmin ÔÚ¹¤×÷Ö®ÓàÓÉĞËÈ¤Çı¶¯Íê³É£¬Èç¹ûÄãÒ²Ò»ÑùÏ²»¶Ç°¶Ë¿ª·¢£¬»¶Ó­¼ÓÈëÎÒÃÇµÄÌÖÂÛ/Ñ§Ï°Èº£¬ÈºÄÚ¿ÉÒÔÌáÎÊ´ğÒÉ£¬·ÖÏíÑ§Ï°×ÊÁÏ»òÕßËæ±ã³¶µ­
 
-## æŠ€æœ¯ç­”ç–‘ï¼Œäº¤æµQQç¾¤
+## ¼¼Êõ´ğÒÉ£¬½»Á÷QQÈº
 
-ç¾¤å· 493671066 è¿™é‡Œå¯ä»¥å¸®ä½ ç­”ç–‘nx-adminè¿™ä¸ªé¡¹ç›®å„ç§ç–‘æƒ‘ï¼Œé—®é¢˜ï¼Œé˜²æ­¢å‘å¹¿å‘Šè€…ï¼Œå…¥ç¾¤è´¹è®¾ç½®ä¸º0.9å…ƒï¼Œè¯·è°…è§£ï¼Œæ¬¢è¿å¤§å®¶
+ÈººÅ 493671066 ÕâÀï¿ÉÒÔ°ïÄã´ğÒÉnx-adminÕâ¸öÏîÄ¿¸÷ÖÖÒÉ»ó£¬ÎÊÌâ£¬·ÀÖ¹·¢¹ã¸æÕß£¬ÈëÈº·ÑÉèÖÃÎª0.9Ôª£¬ÇëÁÂ½â£¬»¶Ó­´ó¼Ò
 
 <img src="./github/QqAndWeiXin.png" width="800px" height="420" alt="chat">
 
-## å…¶ä»–æ³¨æ„äº‹é¡¹ ##
-### ä¸€ã€å¦‚æœæˆ‘ä¸æƒ³ç”¨åˆ°ä¸Šé¢çš„ç´«è‰²é¢œè‰²ï¼Œé‚£æˆ‘æ€ä¹ˆä¿®æ”¹ä¸ºè‡ªå·±å–œæ¬¢çš„é¢œè‰²å‘¢ï¼Ÿ ###
+## ÆäËû×¢ÒâÊÂÏî ##
+### Ò»¡¢Èç¹ûÎÒ²»ÏëÓÃµ½ÉÏÃæµÄ×ÏÉ«ÑÕÉ«£¬ÄÇÎÒÔõÃ´ĞŞ¸ÄÎª×Ô¼ºÏ²»¶µÄÑÕÉ«ÄØ£¿ ###
 
-ç¬¬ä¸€æ­¥ï¼š ä¿®æ”¹ä»£ç åœ°å€ä¸º:[src/styles/variables](https://github.com/mgbq/nx-admin/blob/master/src/styles/variables.scss)é‡Œé¢çš„//sidebaræ³¨é‡Šéƒ¨åˆ†
+µÚÒ»²½£º ĞŞ¸Ä´úÂëµØÖ·Îª:[src/styles/variables](https://github.com/mgbq/nx-admin/blob/master/src/styles/variables.scss)ÀïÃæµÄ//sidebar×¢ÊÍ²¿·Ö
 
-ç¬¬äºŒæ­¥ï¼š ä¿®æ”¹ä»£ç åœ°å€ä¸ºï¼š[src/views/layout/components/Sidebar/index.vue](https://github.com/mgbq/nx-admin/blob/master/src/views/layout/components/Sidebar/index.vue)ä¸‹é¢éƒ¨åˆ†é¢œè‰²ä»£ç å³å¯ã€‚
+µÚ¶ş²½£º ĞŞ¸Ä´úÂëµØÖ·Îª£º[src/views/layout/components/Sidebar/index.vue](https://github.com/mgbq/nx-admin/blob/master/src/views/layout/components/Sidebar/index.vue)ÏÂÃæ²¿·ÖÑÕÉ«´úÂë¼´¿É¡£
 ```javaScript
 <el-menu
       mode="vertical"
@@ -123,15 +123,15 @@ nx-admin æ˜¯å®Œå…¨å¼€æºå…è´¹çš„ç®¡ç†ç³»ç»Ÿé›†æˆæ–¹æ¡ˆï¼Œç”± nxmin åœ¨å·¥ä½œä
       active-text-color="#42b983"
     >
 ```
-### äºŒã€å¦‚æœæˆ‘ä¸æƒ³ç”¨åˆ°åˆ·æ–°åŠ è½½åŠ¨ç”»æ€ä¹ˆåšå‘¢ï¼Ÿ ###
+### ¶ş¡¢Èç¹ûÎÒ²»ÏëÓÃµ½Ë¢ĞÂ¼ÓÔØ¶¯»­ÔõÃ´×öÄØ£¿ ###
 
-æŠŠindex.htmlé‡Œé¢ç›¸å…³çš„[loader-wrappe](https://github.com/mgbq/nx-admin/blob/master/index.html#L245) åŠ è½½åŠ¨ç”»div å’Œç›¸å…³csså»æ‰å³å¯ã€‚
+°Ñindex.htmlÀïÃæÏà¹ØµÄ[loader-wrappe](https://github.com/mgbq/nx-admin/blob/master/index.html#L245) ¼ÓÔØ¶¯»­div ºÍÏà¹ØcssÈ¥µô¼´¿É¡£
 
-### ä¸‰ã€å¦‚æœæˆ‘ä¸æƒ³ç”¨åˆ°ä¸Šé¢çš„æŸäº›ç»„ä»¶å‘¢ï¼Œé‚£æˆ‘æ€ä¹ˆåœ¨æ¨¡æ¿ä¸­åˆ é™¤æ‰ä¸å½±å“åˆ°å…¶ä»–åŠŸèƒ½å‘¢ï¼Ÿ ###
+### Èı¡¢Èç¹ûÎÒ²»ÏëÓÃµ½ÉÏÃæµÄÄ³Ğ©×é¼şÄØ£¬ÄÇÎÒÔõÃ´ÔÚÄ£°åÖĞÉ¾³ıµô²»Ó°Ïìµ½ÆäËû¹¦ÄÜÄØ£¿ ###
 
-ä¸¾ä¸ªæ —å­ï¼Œæˆ‘ä¸æƒ³ç”¨ Vue-Quill-Editor è¿™ä¸ªç»„ä»¶ï¼Œé‚£æˆ‘éœ€è¦åˆ†ä¸‰æ­¥èµ°ã€‚
+¾Ù¸öÀõ×Ó£¬ÎÒ²»ÏëÓÃ Vue-Quill-Editor Õâ¸ö×é¼ş£¬ÄÇÎÒĞèÒª·ÖÈı²½×ß¡£
 
-ç¬¬ä¸€æ­¥ï¼šåˆ é™¤è¯¥ç»„ä»¶çš„è·¯ç”±ï¼Œåœ¨ç›®å½• src/router/index.js ä¸­ï¼Œæ‰¾åˆ°å¼•å…¥æ”¹ç»„ä»¶çš„è·¯ç”±ï¼Œåˆ é™¤ä¸‹é¢è¿™æ®µä»£ç ã€‚
+µÚÒ»²½£ºÉ¾³ı¸Ã×é¼şµÄÂ·ÓÉ£¬ÔÚÄ¿Â¼ src/router/index.js ÖĞ£¬ÕÒµ½ÒıÈë¸Ä×é¼şµÄÂ·ÓÉ£¬É¾³ıÏÂÃæÕâ¶Î´úÂë¡£
 
 ```JavaScript
   {
@@ -142,110 +142,110 @@ nx-admin æ˜¯å®Œå…¨å¼€æºå…è´¹çš„ç®¡ç†ç³»ç»Ÿé›†æˆæ–¹æ¡ˆï¼Œç”± nxmin åœ¨å·¥ä½œä
   },
 ```
 
-ç¬¬äºŒæ­¥ï¼šåˆ é™¤å¼•å…¥è¯¥ç»„ä»¶çš„æ–‡ä»¶ã€‚åœ¨ç›®å½• src/view/form/ åˆ é™¤ VueEditor.vue æ–‡ä»¶ã€‚
+µÚ¶ş²½£ºÉ¾³ıÒıÈë¸Ã×é¼şµÄÎÄ¼ş¡£ÔÚÄ¿Â¼ src/view/form/ É¾³ı VueEditor.vue ÎÄ¼ş¡£
 
-ç¬¬ä¸‰æ­¥ï¼šå¸è½½è¯¥ç»„ä»¶ã€‚æ‰§è¡Œä»¥ä¸‹å‘½ä»¤ï¼š
+µÚÈı²½£ºĞ¶ÔØ¸Ã×é¼ş¡£Ö´ĞĞÒÔÏÂÃüÁî£º
 	
 	npm un vue-quill-editor -S
 
-å®Œæˆã€‚
+Íê³É¡£
 
-## åŠŸèƒ½
+## ¹¦ÄÜ
 ```
-- ç™»å½• / æ³¨é”€
+- µÇÂ¼ / ×¢Ïú
 
-- æƒé™éªŒè¯
-  - é¡µé¢æƒé™
-  - æŒ‡ä»¤æƒé™
+- È¨ÏŞÑéÖ¤
+  - Ò³ÃæÈ¨ÏŞ
+  - Ö¸ÁîÈ¨ÏŞ
 
-- å¤šç¯å¢ƒå‘å¸ƒ
+- ¶à»·¾³·¢²¼
   - dev sit stage prod
 
-- å…¨å±€åŠŸèƒ½
-  - å›½é™…åŒ–å¤šè¯­è¨€
-  - é”å±
-  - ç–‘é—®
-  - è½¬åˆ°github
-  - å¤šç§åŠ¨æ€æ¢è‚¤
-  - åŠ¨æ€ä¾§è¾¹æ ï¼ˆæ”¯æŒå¤šçº§è·¯ç”±åµŒå¥—ï¼‰
-  - åŠ¨æ€é¢åŒ…å±‘
-  - å¿«æ·å¯¼èˆª(æ ‡ç­¾é¡µ)
-  - Svg Sprite å›¾æ ‡
-  - æœ¬åœ°mockæ•°æ®
-  - Screenfullå…¨å±
-  - è‡ªé€‚åº”æ”¶ç¼©ä¾§è¾¹æ 
+- È«¾Ö¹¦ÄÜ
+  - ¹ú¼Ê»¯¶àÓïÑÔ
+  - ËøÆÁ
+  - ÒÉÎÊ
+  - ×ªµ½github
+  - ¶àÖÖ¶¯Ì¬»»·ô
+  - ¶¯Ì¬²à±ßÀ¸£¨Ö§³Ö¶à¼¶Â·ÓÉÇ¶Ì×£©
+  - ¶¯Ì¬Ãæ°üĞ¼
+  - ¿ì½İµ¼º½(±êÇ©Ò³)
+  - Svg Sprite Í¼±ê
+  - ±¾µØmockÊı¾İ
+  - ScreenfullÈ«ÆÁ
+  - ×ÔÊÊÓ¦ÊÕËõ²à±ßÀ¸
 
-- ç¼–è¾‘å™¨
-  - å¯Œæ–‡æœ¬
+- ±à¼­Æ÷
+  - ¸»ÎÄ±¾
   - Markdown
 
 - Excel
-  - å¯¼å‡ºexcel
-  - å¯¼å‡ºzip
-  - å¯¼å…¥excel
-  - å‰ç«¯å¯è§†åŒ–excel
+  - µ¼³öexcel
+  - µ¼³özip
+  - µ¼Èëexcel
+  - Ç°¶Ë¿ÉÊÓ»¯excel
 
-- è¡¨æ ¼
-  - æ ‘å½¢è¡¨æ ¼
-  - å†…è”ç¼–è¾‘
+- ±í¸ñ
+  - Ê÷ĞÎ±í¸ñ
+  - ÄÚÁª±à¼­
 
-- é”™è¯¯é¡µé¢
+- ´íÎóÒ³Ãæ
   - 401
   - 404
 
-- çµ„ä»¶
-  - è¿”å›é¡¶éƒ¨
-  - æ‹–æ‹½Dialog
-  - æ‹–æ‹½çœ‹æ¿
-  - åˆ—è¡¨æ‹–æ‹½
+- ½M¼ş
+  - ·µ»Ø¶¥²¿
+  - ÍÏ×§Dialog
+  - ÍÏ×§¿´°å
+  - ÁĞ±íÍÏ×§
   - SplitPane
   - Dropzone
   - Sticky
   - CountTo
 
-- ç»¼åˆå®ä¾‹
+- ×ÛºÏÊµÀı
 - Dashboard
-- v-charts å›¾è¡¨
-- Clipboard(å‰ªè´´å¤åˆ¶)
+- v-charts Í¼±í
+- Clipboard(¼ôÌù¸´ÖÆ)
 - Markdown2html
-- é¦–å±åŠ è½½ç­‰å¾…åŠ¨ç”»
-- Fontawesome å›¾æ ‡åº“
-- vuexæœ¬åœ°æŒä¹…åŒ–å­˜å‚¨,å°è£…h5çš„sessionStorageå’ŒlocalStorage
-- å³é”®èœå•
+- Ê×ÆÁ¼ÓÔØµÈ´ı¶¯»­
+- Fontawesome Í¼±ê¿â
+- vuex±¾µØ³Ö¾Ã»¯´æ´¢,·â×°h5µÄsessionStorageºÍlocalStorage
+- ÓÒ¼ü²Ëµ¥
 - github-emoji
-- ç¬¬ä¸‰æ–¹ç½‘ç«™
-- åŠ¨æ€æ–‡å­—è¯´æ˜
+- µÚÈı·½ÍøÕ¾
+- ¶¯Ì¬ÎÄ×ÖËµÃ÷
 
 ```
 
-æ¬¢è¿ä½ ä¸º nx-adminçš„å¼€å‘ä½œå‡ºè´¡çŒ®ï¼ˆä»£ç ç¼–å†™/æ–‡æ¡£ç¿»è¯‘ï¼‰ã€‚
+»¶Ó­ÄãÎª nx-adminµÄ¿ª·¢×÷³ö¹±Ï×£¨´úÂë±àĞ´/ÎÄµµ·­Òë£©¡£
 
-## å¼€å‘
+## ¿ª·¢
 ```bash
-# å…‹éš†é¡¹ç›®
+# ¿ËÂ¡ÏîÄ¿
 git clone https://github.com/mgbq/nx-admin.git
 
-# å®‰è£…ä¾èµ–
+# °²×°ÒÀÀµ
 npm install
-Â  Â 
-# å»ºè®®ä¸è¦ç”¨cnpmå®‰è£… ä¼šæœ‰å„ç§è¯¡å¼‚çš„bug å¯ä»¥é€šè¿‡å¦‚ä¸‹æ“ä½œè§£å†³ npm ä¸‹è½½é€Ÿåº¦æ…¢çš„é—®é¢˜
+? ?
+# ½¨Òé²»ÒªÓÃcnpm°²×° »áÓĞ¸÷ÖÖ¹îÒìµÄbug ¿ÉÒÔÍ¨¹ıÈçÏÂ²Ù×÷½â¾ö npm ÏÂÔØËÙ¶ÈÂıµÄÎÊÌâ
 npm install --registry=https://registry.npm.taobao.org
 
-# å¯åŠ¨æœåŠ¡
+# Æô¶¯·şÎñ
 npm run dev
 ```
-æµè§ˆå™¨è®¿é—® http://localhost:9528
+ä¯ÀÀÆ÷·ÃÎÊ http://localhost:9528
 
-## å‘å¸ƒ
+## ·¢²¼
 ```bash
-# æ„å»ºæµ‹è¯•ç¯å¢ƒ
+# ¹¹½¨²âÊÔ»·¾³
 npm run build:sit
 
-# æ„å»ºç”Ÿäº§ç¯å¢ƒ
+# ¹¹½¨Éú²ú»·¾³
 npm run build:prod
 ```
 
-## å…¶å®ƒ
+## ÆäËü
 ```bash
 # --report to build with bundle size analytics
 npm run build:prod --report
@@ -259,12 +259,12 @@ npm run lint
 # auto fix
 npm run lint -- --fix
 ```
-## æèµ  è§‰å¾—ä¸é”™ èµä¸ªå’–å•¡ è®©ä½œè€…æ‰“èµ·ç²¾ç¥ ~
-<img src="./github/äºŒç»´ç .jpg" width="400px" height="460px" alt="æèµ æ‰«ä¸€æ‰«">
+## ¾èÔù ¾õµÃ²»´í ÉÍ¸ö¿§·È ÈÃ×÷Õß´òÆğ¾«Éñ ~
+<img src="./github/¶şÎ¬Âë.jpg" width="400px" height="460px" alt="¾èÔùÉ¨Ò»É¨">
 
-## æ„Ÿè°¢
-è¿™ä¸ªé¡¹ç›®å€Ÿé‰´äº†[vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template),[d2admin](https://github.com/d2-projects/d2-admin),
-[avue](https://gitee.com/smallweigit/avue)éƒ¨åˆ†ç»„ä»¶ã€‚
+## ¸ĞĞ»
+Õâ¸öÏîÄ¿½è¼øÁË[vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template),[d2admin](https://github.com/d2-projects/d2-admin),
+[avue](https://gitee.com/smallweigit/avue)²¿·Ö×é¼ş¡£
 
 ## License
 
